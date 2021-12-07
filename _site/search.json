@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this blog",
+      "description": "Some additional details about the blog",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-12-06T21:39:28-03:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Portfolio Luiz Galante, gh_pages=True",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-12-06T21:39:29-03:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
